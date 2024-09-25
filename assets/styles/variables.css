@@ -1,0 +1,35 @@
+:root {
+  --color-white-light: #ffffff;
+  --color-white-medium: #fafaf9;
+  --color-beige: #fafafa;
+  --color-grey-light: #6f6f6f;
+  --color-black: #000000;
+  --color-black-light: #000a1e;
+
+  --ff-primary: roboto-condensed, sans-serif;
+  --lh-tight: 100%;
+  --lh-normal: 130%;
+  --lh-loose: 150%;
+  --fw-light: 200;
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-bold: 600;
+  --basefont-size: 1rem;
+
+  --xs: calc(var(--basefont-size) * 0.65);
+  --s: calc(var(--basefont-size) * 0.8);
+  --m: var(--basefont-size);
+  --l: calc(var(--basefont-size) * 1.2);
+  --xl: calc(var(--basefont-size) * 1.4);
+  --xxl: calc(var(--basefont-size) * 1.6);
+  --xxxl: calc(var(--basefont-size) * 1.9);
+
+  --eighth: calc(var(--m) / 8);
+  --quarter: calc(var(--m) / 4);
+  --half: calc(var(--m) / 2);
+  
+  --grid-item-size-max: 300px;
+  --tr-fast: 0.3s;
+  --tr-normal: 0.6s;
+  --tr-slow: 1s;
+}

@@ -1,0 +1,173 @@
+{
+    "books": [
+      {
+        "id": "0",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "A Court of Thorns and Roses",
+        "author": "Sarah J. Maas",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Feyre", "Fae", "Fluch", "Magie", "Romantik"]
+        },
+        "teaserImg": "cover-acotar.png",
+        "description": "Feyre, eine sterbliche Jägerin, gerät in die Welt der Fae und wird in einen tödlichen Fluch verwickelt.",
+        "content": "Feyre Archeron tötet einen Wolf und wird ins Reich der Fae entführt. Dort entdeckt sie eine verfluchte Welt und wird in einen Krieg zwischen Feinden und Verbündeten verwickelt."
+      },
+      {
+        "id": "1",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "A Court of Mist and Fury",
+        "author": "Sarah J. Maas",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Feyre", "Rhysand", "Trauma", "Magie", "Liebe"]
+        },
+        "teaserImg": "cover-acomaf.png",
+        "description": "Feyre versucht, nach den traumatischen Ereignissen unter dem Berg zu heilen und findet in Rhysand neue Stärke.",
+        "content": "Feyre kehrt in die Fae-Welt zurück, gezeichnet von ihrer Vergangenheit. Sie muss sich an Rhysand wenden, um eine bevorstehende Bedrohung abzuwehren und entdeckt dabei neue Kräfte und Gefühle."
+      },
+      {
+        "id": "2",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "A Court of Wings and Ruin",
+        "author": "Sarah J. Maas",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Feyre", "Krieg", "Machtkämpfe", "Magie", "Schlacht"]
+        },
+        "teaserImg": "cover-acowar.png",
+        "description": "Feyre bereitet sich auf einen großen Krieg vor, der das Schicksal der Fae-Welt für immer verändern wird.",
+        "content": "Feyre kehrt als Spionin zum Frühlingshof zurück, um ihre Familie zu schützen. Sie muss Bündnisse schließen und sich in einem finalen Krieg beweisen, der das Schicksal der Fae-Welt verändert."
+      },
+      {
+        "id": "3",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "Dance of Thieves",
+        "author": "Mary E. Pearson",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Kazi", "Jase", "Ballenger", "Intrigen", "Liebe"]
+        },
+        "teaserImg": "cover-dot.png",
+        "description": "Kazi, eine Elitekriegerin, wird nach Tor's Watch geschickt, um einen Verräter zu fassen, trifft aber auf Jase Ballenger.",
+        "content": "Kazi, eine Kriegerin, wird entsandt, um einen Verräter zu fassen. Sie trifft auf Jase, den Anführer eines mächtigen Clans, und gemeinsam müssen sie größeren Bedrohungen entgegentreten."
+      },
+      {
+        "id": "4",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "Fourth Wing",
+        "author": "Rebecca Yarros",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Violet", "Drachen", "Akademie", "Kriegerin", "Überleben"]
+        },
+        "teaserImg": "cover-fourth-wing.png",
+        "description": "Violet muss an einer gefährlichen Akademie Drachen bändigen, um zu überleben und Kriegerin zu werden.",
+        "content": "Violet tritt einer Drachenreiter-Akademie bei, obwohl sie sich unvorbereitet fühlt. Sie muss Drachen und Feinde bezwingen, um zu überleben und das Unmögliche zu erreichen."
+      },
+      {
+        "id": "5",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "Harry Potter und die Heiligtümer des Todes",
+        "author": "J.K. Rowling",
+        "tags": {
+          "genre": ["Fantasy"],
+          "keywords": ["Harry Potter", "Voldemort", "Horkruxe", "Schlacht", "Zauberwelt"]
+        },
+        "teaserImg": "cover-harry-potter.png",
+        "description": "Harry, Hermine und Ron suchen die Horkruxe, um Voldemort endgültig zu besiegen.",
+        "content": "Harry und seine Freunde setzen ihre Suche nach den Horkruxen fort. Ihre Reise endet in einem finalen Kampf, der das Schicksal der Zaubererwelt für immer verändern wird."
+      },
+      {
+        "id": "6",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "Throne of Glass",
+        "author": "Sarah J. Maas",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Celaena", "Assassinin", "Turnier", "Freiheit", "Intrigen"]
+        },
+        "teaserImg": "cover-tog.png",
+        "description": "Celaena, eine junge Assassinin, kämpft um ihre Freiheit, indem sie an einem tödlichen Wettbewerb teilnimmt.",
+        "content": "Celaena Sardothien, eine berüchtigte Assassinin, tritt in einem Turnier an, um ihre Freiheit zu gewinnen. Dunkle Mächte bedrohen das Reich, während Celaena ihre Vergangenheit und ihre Gefühle konfrontiert."
+      },
+      {
+        "id": "7",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "Queen of Shadows",
+        "author": "Sarah J. Maas",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Aelin", "Rückkehr", "Thron", "Rache", "Mächte"]
+        },
+        "teaserImg": "cover-qos.png",
+        "description": "Celaena, jetzt Aelin, kehrt nach Rifthold zurück, um ihre Feinde zu vernichten und ihren Thron zurückzufordern.",
+        "content": "Aelin kehrt nach Rifthold zurück, um ihre Feinde zu stürzen und den Thron von Terrasen zurückzufordern. Alte Feinde und neue Freunde bestimmen den Ausgang einer tödlichen Schlacht."
+      },
+      {
+        "id": "8",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "Caraval",
+        "author": "Stephanie Garber",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Scarlett", "Spiel", "Magie", "Rätsel", "Gefahren"]
+        },
+        "teaserImg": "cover-caraval.png",
+        "description": "Scarlett wird in das magische Spiel Caraval gezogen, um ihre Schwester zu retten.",
+        "content": "Scarlett betritt das gefährliche Spiel Caraval, um ihre Schwester zu retten. Sie muss zwischen Realität und Illusion unterscheiden und gefährliche Rätsel lösen, um zu überleben."
+      },
+      {
+        "id": "9",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "Six of Crows",
+        "author": "Leigh Bardugo",
+        "tags": {
+          "genre": ["Fantasy", "Heist"],
+          "keywords": ["Kaz Brekker", "Raub", "Intrigen", "Gruppe", "Gefahren"]
+        },
+        "teaserImg": "cover-crows.png",
+        "description": "Eine Gruppe Außenseiter plant einen unmöglichen Raubüberfall im Herzen einer gut bewachten Festung.",
+        "content": "Kaz Brekker führt eine Gruppe von Außenseitern an, um einen riskanten Raub zu begehen. Jeder hat seine eigenen Motive, und der Erfolg könnte ihre einzige Chance sein."
+      },
+      {
+        "id": "10",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "Powerless",
+        "author": "Lauren Roberts",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Paige", "Macht", "Intrigen", "Geheimnisse", "Königshaus"]
+        },
+        "teaserImg": "cover-powerless.png",
+        "description": "Paige, die ohne Magie geboren wurde, entdeckt Geheimnisse, die ihre Welt verändern könnten.",
+        "content": "Paige, die in einer Welt voller Magie ohne eigene Kräfte lebt, gerät in eine Intrige, die das Königreich bedroht. Sie entdeckt Geheimnisse, die ihre Bestimmung offenbaren."
+      },
+      {
+        "id": "11",
+        "date": "2024-09-24T12:00:00-08:00",
+        "draft": false,
+        "title": "Once Upon a Broken Heart",
+        "author": "Stephanie Garber",
+        "tags": {
+          "genre": ["Fantasy", "Romantasy"],
+          "keywords": ["Evangelina", "Liebe", "Fluch", "Herz", "Magie"]
+        },
+        "teaserImg": "cover-ouabh.png",
+        "description": "Evangelina versucht, ihre Liebe zu retten und macht dabei einen gefährlichen Pakt mit dem Prinzen der Herzen.",
+        "content": "Evangelina macht einen Pakt mit dem geheimnisvollen Prinzen der Herzen, um ihre verlorene Liebe zu retten. Doch nichts ist, wie es scheint, und der Preis könnte ihr eigenes Herz sein."
+      }
+    ]
+  }
+  
